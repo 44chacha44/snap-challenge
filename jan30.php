@@ -54,7 +54,7 @@ const array = [{"userId":1,"id":1,"title":"sunt aut facere repellat provident oc
 	"body":"repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse
 	 voluptatibus quis\nest aut tenetur dolor neque"}];
 
-const newArray = array.map(index => `${index.title}: {index.body}`);
+/**const newArray = array.map(index => `${index.title}: {index.body}`);
 
 //implicit return, it is assumed you are returning. this simplifies the code, same thing as:
 //  const newArray = array.map(index => {

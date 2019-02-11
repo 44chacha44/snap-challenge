@@ -19,7 +19,7 @@ console.log(mapped);
 
 /** below is the answer from george**/
 
-let string = "Fate protects fools, little children and ships named Enterprise.
+/**let string = "Fate protects fools, little children and ships named Enterprise.
 					You're going to be an interesting companion, Mr. Data. Some days you get the
 					bear, and some days the bear gets you. Maybe if we felt any human loss as
 					keenly as we feel one of those close to us, human history would be far less
